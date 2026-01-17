@@ -1,0 +1,7 @@
+{
+  "name": "CV-JD Aligner v2.0",
+  "description": "Professional tool for honest CV to Job Description matching, identifying hard requirement gaps and calculating realistic alignment scores.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
